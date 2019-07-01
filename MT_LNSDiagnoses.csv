@@ -1,11 +1,11 @@
 PatientID,1R,1L,2R,2L,4R,4L,5,7,10R,10L,11R,11L,12R,12L,N-Classification
 1,ben,ben,ben,ben,ben,ben,ben,mal,inc,ben,mal,ben,mal,ben,N2
-2, ben, ben, inc, ben, ben, ben, ben, ben, mal, ben, mal, ben, ben, ben, Possible N2
-3, ben,	ben, ben, ben, mal, ben, ben, inc, mal, ben, mal, ben, inc, ben, N2
-4, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, N0
-5, ben, ben, ben, ben, ben, ben, ben, ben, ben, mal, ben, ben, ben, mal, N1
-6, ben, ben, ben, ben, inc, ben, ben, mal, mal, ben, mal, ben, inc, ben, N2
-7, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, N0
-8, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, ben, N0
-9, ben, ben, ben, ben, ben, ben, ben, ben, inc, ben, ben, ben, ben, ben, Possible N3
-10, ben, ben, ben, ben, inc, ben, ben, ben, ben, ben, ben, ben, ben, ben, Possible N2
+2,ben,ben,inc,ben,ben,ben,ben,ben,mal,ben,mal,ben,ben,ben,Possible N2
+3,ben,ben,ben,ben,mal,ben,ben,inc,mal,ben,mal,ben,inc,ben,N2
+4,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,N0
+5,ben,ben,ben,ben,ben,ben,ben,ben,ben,mal,ben,ben,ben,mal,N1
+6,ben,ben,ben,ben,inc,ben,ben,mal,mal,ben,mal,ben,inc,ben,N2
+7,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,N0
+8,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,ben,N0
+9,ben,ben,ben,ben,ben,ben,ben,ben,inc,ben,ben,ben,ben,ben,Possible N3
+10,ben,ben,ben,ben,inc,ben,ben,ben,ben,ben,ben,ben,ben,ben,Possible N2
